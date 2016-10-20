@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "550887221180",
+    "firebase_url": "https://ionuts-chat-app.firebaseio.com",
+    "project_id": "ionuts-chat-app",
+    "storage_bucket": "ionuts-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550887221180:android:2e6c770ff8001fe2",
+        "android_client_info": {
+          "package_name": "com.example.firewaves.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550887221180-pp1jbfnpj0iqv8avrqg1hf5k3sumuh04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firewaves.chatapp",
+            "certificate_hash": "7F3048BB84C42C38107DF872FB9131ABD8F4ABEE"
+          }
+        },
+        {
+          "client_id": "550887221180-v62do0og170qn1d5quj0jl2i48n2p95r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8zlfLstkiETD6D2GQKonZrpeb562wkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550887221180-v62do0og170qn1d5quj0jl2i48n2p95r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
